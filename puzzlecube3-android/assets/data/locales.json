@@ -1,0 +1,46 @@
+{
+	locales: [ "es_US", "es_ES" ],
+	strings: [
+		{
+			"Play":		"Jugar",
+			"Options":	"Opciones",
+			"Scores":	"Resultados",
+			"Help":		"Ayudar"
+		}
+	]
+},
+{
+	locales: [ "fr_FR"],
+	strings: [
+		{
+		}
+	]
+},
+{
+	locales: [ "pt_BR"],
+	strings: [
+		{
+		}
+	]
+},
+{
+	locales: [ "it_IT"],
+	strings: [
+		{
+		}
+	]
+},
+{
+	locales: [ "ru_RU"],
+	strings: [
+		{
+		}
+	]
+},
+{
+	locales: [ "de_DE"],
+	strings: [
+		{
+		}
+	]
+},

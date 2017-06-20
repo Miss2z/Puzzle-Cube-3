@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/gdx-backend-android-83b5f69e5bbf9d30341de750507db792.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/android-support-v4-d8b10ece8680798f94eff79fa93b7686.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/google-play-services-b4baaeab4d2700d25890d80eb5a6327d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/basegameutils-e1a34098d0db486d18b538d7c341a0d9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/google-play-services_lib-c37e2d9fd5ff0a4f6806ee1c755f6b8e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/gdx-backend-android-sources-ed4eeb052db65ddd3843701556c3c2d7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puzzlecube3-android/bin/dexedLibs/gdx-a64bb187b1f67b31f73e9c40ed2fc524.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
